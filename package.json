@@ -1,0 +1,19 @@
+{
+  "name": "@shandy/library_project",
+  "version": "1.0.0",
+  "description": "library_project",
+  "main": "app.js",
+  "author": "Shandy <hieu@deltabrains.com>",
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.14",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {},
+  "keywords": [],
+  "license": "MIT"
+}
+  
